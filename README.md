@@ -1,7 +1,7 @@
 # Clique-Bait
 6th Study Case from the 8 weeks challenges
 
-### Solutions will be updated soon 
+### Summary will be updated 
 
 The details for the study case: https://8weeksqlchallenge.com/case-study-6/
 
